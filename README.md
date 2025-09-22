@@ -25,7 +25,7 @@ Migrate DB:
 ./vendor/bin/sail artisan migrate
 ```
 
-## After editing JS
+## After editing assets
 
 ```
 npm run build
